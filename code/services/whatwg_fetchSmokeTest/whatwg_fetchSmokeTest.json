@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,whatwg_fetch",
+    "logging_enabled": "false",
+    "name": "whatwg_fetchSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "whatwg_fetchSmokeTest.js"
+}
